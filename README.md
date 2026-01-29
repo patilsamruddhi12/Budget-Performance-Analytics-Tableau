@@ -29,7 +29,9 @@ Key fields include:
 ### 1. Project Budget Distribution by Division
 This treemap visualizes how the total budget is allocated across divisions. Larger blocks indicate higher budget consumption.
 
-![Project Budget Distribution by Division](treemap_budget_distribution.png)
+
+![Project Budget Distribution by Division](Treemap.png)
+
 
 
 **Insight:**  
@@ -40,7 +42,7 @@ Manufacturing and Healthcare received the highest budget allocations, while Educ
 ### 2. Budget Intensity by Month and Division
 This heatmap analyzes monthly budget spending patterns across divisions using a diverging color scale.
 
-![Budget Intensity by Month and Division](heatmap_budget_intensity.png)
+![Budget Intensity by Month and Division](heatmap.png)
 
 **Insight:**  
 Spending peaks during mid-year months (May–October), indicating seasonal investment patterns. Manufacturing and Healthcare show consistent spending, while Retail exhibits higher volatility.
@@ -50,7 +52,7 @@ Spending peaks during mid-year months (May–October), indicating seasonal inves
 ### 3. Monthly Project Budget Trend
 This line chart tracks budget changes over multiple years.
 
-![Monthly Project Budget Trend](monthly_budget_trend.png)
+![Monthly Project Budget Trend](linechart.png)
 
 
 **Insight:**  
