@@ -1,4 +1,4 @@
-# Budget-Performance-Analytics-Tableau
+
 # Budget & Performance Analytics Using Tableau
 
 This project analyzes how organizational budgets are distributed, utilized, and tracked over time across multiple business divisions using interactive Tableau dashboards.
@@ -29,6 +29,9 @@ Key fields include:
 ### 1. Project Budget Distribution by Division
 This treemap visualizes how the total budget is allocated across divisions. Larger blocks indicate higher budget consumption.
 
+![Project Budget Distribution by Division](treemap_budget_distribution.png)
+
+
 **Insight:**  
 Manufacturing and Healthcare received the highest budget allocations, while Education had the lowest, highlighting differences in organizational investment priorities.
 
@@ -37,6 +40,8 @@ Manufacturing and Healthcare received the highest budget allocations, while Educ
 ### 2. Budget Intensity by Month and Division
 This heatmap analyzes monthly budget spending patterns across divisions using a diverging color scale.
 
+![Budget Intensity by Month and Division](heatmap_budget_intensity.png)
+
 **Insight:**  
 Spending peaks during mid-year months (May–October), indicating seasonal investment patterns. Manufacturing and Healthcare show consistent spending, while Retail exhibits higher volatility.
 
@@ -44,6 +49,9 @@ Spending peaks during mid-year months (May–October), indicating seasonal inves
 
 ### 3. Monthly Project Budget Trend
 This line chart tracks budget changes over multiple years.
+
+![Monthly Project Budget Trend](monthly_budget_trend.png)
+
 
 **Insight:**  
 Budgets generally increase over time, with noticeable spikes in certain months, suggesting milestone-driven or expansion-related spending.
