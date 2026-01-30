@@ -55,7 +55,7 @@ The heatmap highlights seasonal budget patterns across divisions. Darker shades 
 ________________________________________
 📦 Budget Variation by Month (Box Plot)
 
-![Budget Variation by Month](boxplot.png)
+![Budget Variation by Month](boxplot..png)
 
 Insight:
 This box plot visualizes month-to-month budget dispersion. Months with wider interquartile ranges and outliers indicate higher spending volatility, signaling periods of increased financial risk that may require tighter governance.
